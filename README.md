@@ -3,6 +3,7 @@
 A simple and responsive web page built using **HTML and Tailwind CSS**.  
 This project demonstrates responsive design, Tailwind CSS utility classes, and basic JavaScript form interaction.
 
+
 ## ✨ Features
 
 - Responsive design for different screen sizes
@@ -12,16 +13,19 @@ This project demonstrates responsive design, Tailwind CSS utility classes, and b
 - User name input form
 - Dynamic thank-you message after submission
 - Mobile-friendly layout
+- 
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - Tailwind CSS
 - JavaScript
+- 
 
 ## 🎯 Purpose
 
 This project was created to practice **Tailwind CSS, responsive design, and basic JavaScript DOM manipulation**.
+
 
 ## 👩‍💻 Author
 
